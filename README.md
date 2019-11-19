@@ -1,8 +1,8 @@
 # Shi Tomsai Corners (Better than Harris Corners)
 ## Installion Guide
 * Install the python 3.x
-*for installing numpy use pip install numpy
-*for installing opencv use pip install opencv-python
+* for installing numpy use pip install numpy
+* for installing opencv use pip install opencv-python
 
 
 ## Results

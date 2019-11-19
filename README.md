@@ -1,12 +1,13 @@
 # Shi Tomsai Corners (Better than Harris Corners)
 ## Installion Guide
+* This implementation use opencv just for getting ui and numpy for matrix operations.
 * Install the python 3.x
 * for installing numpy use pip install numpy
 * for installing opencv use pip install opencv-python
 
 
 ## Results
-*This implementation use opencv just for getting ui and numpy for matrix operations.
+
 ![](https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/shi-tomsai-corners.PNG)
 
 

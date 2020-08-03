@@ -10,6 +10,9 @@
 
 ![](https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/shi-tomsai-corners.PNG)
 
+##Updated on 8-3-2020
+Actual paper for harris corner detector
+[1]C. Harris and M.J. Stephens. A combined corner and edge detector. In Alvey Vision Conference, pages 147–152, 1988
 
 
 
